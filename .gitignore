@@ -178,3 +178,4 @@ yellow_tripdata_2024-01.**parquet
 yellow_tripdata_2024-01.csv
 # docker-compose
 docker-compose.yml
+nivel-0/taxi_zone_lookup.csv
